@@ -1,7 +1,6 @@
-# EralpSoftware Feature Brick
+# ES Feature Brick
 
-Developed for EralpSoftware, it helps to add a new feature 
-to applications by creating a ready-made structure.
+It helps to add a new feature to applications by creating a ready-made structure.
 
 ## How to use 🚀
 
